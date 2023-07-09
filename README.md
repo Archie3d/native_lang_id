@@ -1,8 +1,8 @@
-# Native language identification
+# Native language identification with TensorFlow
 
-This is a toy project experimenting with ML. The goal is to be  able to identify a native language of a non-native English speaker from their Reddit comments.
+Attempt to identify a native language (or country of origin) of a non-native English speaker from their Reddit comments.
 
-The model achieves about 43% accuracy on the provided validation dataset across 47 countries.
+The model achieves about 43% accuracy on the provided validation dataset across 47 classes (countries).
 ![accuracy](images/accuracy.png)
 
 > :warning:
